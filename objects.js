@@ -7,5 +7,3 @@ function updatePlaylist(playlist, artist, song) {
   playlist['Nirvana'] = 'Aneurysm'
   return playlist
 }
-
-
