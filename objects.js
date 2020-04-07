@@ -5,7 +5,8 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist = {
-    'Slowdive': 'My Bloody Valentine', Phil Ochs}
-  return playlist
-}
-playlist();
+    'Slowdive': 'My Bloody Valentine'
+  }
+    return playlist
+
+
