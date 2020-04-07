@@ -3,11 +3,6 @@ var playlist = {
   Prince: 'Purple Rain'
 }
 
-function updatePlaylist(playlist, artist, song) {
-  playlist = {
-    Slowdive: 'Fuck you',
-    My Bloody Valentine: 'Niggas',
-    Phil Ochs: 'Hello Bitch'
-  }
-    return playlist;
+function updatePlaylist(playlist, artistName, songTitle) {
+  return Object.assign({}, playlist, { [artistName]: songTitle })
 }
