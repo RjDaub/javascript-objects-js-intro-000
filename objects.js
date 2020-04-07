@@ -8,4 +8,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
     'Slowdive': 'My Bloody Valentine', Phil Ochs}
   return playlist
 }
-playlist9();
+playlist();
