@@ -9,5 +9,5 @@ function updatePlaylist(playlist, artistName, songTitle) {
   'My Bloody Valentine': 'Soon',
   'Phil Ochs': 'Changes'
   }
-    return playlist():
+    return playlist();
 }
