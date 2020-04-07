@@ -4,6 +4,5 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[] =
-  return playlist
+  playlist = {'My Bloody Valentine' : ''}
 }
