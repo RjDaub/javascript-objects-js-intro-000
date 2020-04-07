@@ -7,3 +7,7 @@ function updatePlaylist(playlist, artistName, songTitle) {
   playlist['Slowdive', 'My Bloody Valentine', 'Phil Ochs'] = 'Alison', 'Soon', 'Changes'
   return playlist
 }
+
+function removeFromPlaylist(playlist, artistName,) {
+  
+}
