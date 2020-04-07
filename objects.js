@@ -4,6 +4,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artistName] = songTitle
+  playlist['Slowdive', 'My Bloody Valentine', 'Phil Ochs'] = 'Alison', 'Soon', 'Changes'
   return playlist
 }
