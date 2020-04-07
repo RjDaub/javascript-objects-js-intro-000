@@ -8,5 +8,3 @@ function updatePlaylist(playlist, artistName, songTitle) {
     'Slowdive': 'My Bloody Valentine'
   }
     return playlist
-
-
